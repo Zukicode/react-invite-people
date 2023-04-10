@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-invite-people/static/css/main.14ce5091.css",
+    "main.js": "/react-invite-people/static/js/main.08a445c3.js",
+    "index.html": "/react-invite-people/index.html",
+    "static/media/success.svg": "/react-invite-people/static/media/success.2822d5c741dcf24e136036beb70c2cee.svg",
+    "main.14ce5091.css.map": "/react-invite-people/static/css/main.14ce5091.css.map",
+    "main.08a445c3.js.map": "/react-invite-people/static/js/main.08a445c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ce5091.css",
+    "static/js/main.08a445c3.js"
+  ]
+}
